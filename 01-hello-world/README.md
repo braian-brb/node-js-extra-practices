@@ -1,2 +1,4 @@
-# 01-hello-World
-A repository to practice node js
+# 01-hello-world
+* Hello World
+* Greeting
+* setTimeout
