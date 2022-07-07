@@ -1,7 +1,7 @@
-const logic = (base) => {
+const logic = (base, limit) => {
   let result = '';
 
-  for(let i=0; i <= 10 ; i++){
+  for(let i=0; i <= limit ; i++){
     result += `${base} * ${i} = ${base * i} \n`
   }
   
